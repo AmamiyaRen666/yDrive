@@ -1,10 +1,10 @@
 class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
-        self.MirrorCommand = 'ugd'
-        self.UnzipMirrorCommand = 'xunzipgup'
-        self.TarMirrorCommand = 'xtargup'
-        self.CancelMirror = 'xcancel'
+        self.MirrorCommand = 'gd'
+        self.UnzipMirrorCommand = 'unzipgd'
+        self.TarMirrorCommand = 'targd'
+        self.CancelMirror = 'cancel'
         self.CancelAllCommand = 'cancelall'
         self.ListCommand = 'find'
         self.StatusCommand = 'list'
@@ -14,7 +14,7 @@ class _BotCommands:
         self.RestartCommand = 'reboot'
         self.StatsCommand = 'usage'
         self.HelpCommand = 'helpme'
-        self.LogCommand = 'xlog'
+        self.LogCommand = 'log'
         self.CloneCommand = "gdown"
         self.WatchCommand = 'ytdl'
         self.TarWatchCommand = 'tarytdl'
