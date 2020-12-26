@@ -12,7 +12,7 @@ class _BotCommands:
         self.UnAuthorizeCommand = 'unauth1'
         self.PingCommand = 'ping1'
         self.RestartCommand = 'reboot1'
-        self.StatsCommand = 'stats1'
+        self.StatsCommand = 'usage1'
         self.HelpCommand = 'helpme1'
         self.LogCommand = 'log1'
         self.CloneCommand = "clone1"
