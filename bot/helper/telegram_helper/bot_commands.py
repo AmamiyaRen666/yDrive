@@ -13,10 +13,10 @@ class _BotCommands:
         self.PingCommand = 'ping2'
         self.RestartCommand = 'reboot2'
         self.StatsCommand = 'usage2'
-        self.HelpCommand = 'helpme2'
+        self.HelpCommand = 'help2'
         self.LogCommand = 'log2'
         self.CloneCommand = "clone2"
-        self.WatchCommand = 'ytdl2'
-        self.TarWatchCommand = 'tarytdl2'
+        self.WatchCommand = 'vd2'
+        self.TarWatchCommand = 'tarvd2'
 
 BotCommands = _BotCommands()
